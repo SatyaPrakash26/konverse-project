@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/konverse-project/static/css/main.57ef4ec4.css",
+    "main.js": "/konverse-project/static/js/main.49c3499a.js",
+    "index.html": "/konverse-project/index.html",
+    "main.57ef4ec4.css.map": "/konverse-project/static/css/main.57ef4ec4.css.map",
+    "main.49c3499a.js.map": "/konverse-project/static/js/main.49c3499a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57ef4ec4.css",
+    "static/js/main.49c3499a.js"
+  ]
+}
